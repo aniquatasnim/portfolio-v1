@@ -1,2 +1,3 @@
-# portfolio-v1
-Personal portfolio - Work in progress
+Portfolio v1 — work in progress.
+
+Building slowly and learning along the way.
